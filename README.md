@@ -7,7 +7,7 @@
 
 <p align="center">
   非エンジニア。AI と一緒に、何かを作りながら覚えていく派。<br>
-  作ったものを <a href="https://note.com/">note</a> に日記として書いてます。
+  作ったものを <a href="https://note.com/noted_takin3617">note</a> に日記として書いてます。
 </p>
 
 ---
@@ -50,7 +50,7 @@ ChatGPT、Codex CLI、Claude Code を、用途で切り替えています。
 
 ### 📚 読み物
 
-- **note**：シリーズ「テトリスを作ってみる ①〜⑤」 — 非エンジニアが AI と日記を書きながら 1 つの関数 / 1 つのゲームを書ききるまで
+- **note**：[@noted_takin3617](https://note.com/noted_takin3617) — シリーズ「テトリスを作ってみる ①〜⑤」連載中
 - 不定期で「次は何を作ろう」を考えています
 
 ### 🌱 いま学びたいこと
